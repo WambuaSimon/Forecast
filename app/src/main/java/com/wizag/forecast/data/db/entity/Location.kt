@@ -1,4 +1,4 @@
-package com.wizag.forecast.data.response
+package com.wizag.forecast.data.db.entity
 
 
 import com.google.gson.annotations.SerializedName
